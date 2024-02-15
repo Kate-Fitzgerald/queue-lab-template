@@ -3,8 +3,8 @@ class Queue():
         self.cards = []
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
-    def push(self, cards):
-        self.card.append(cards)
+    def push(self, card):
+        self.cards.append(card)
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def pop(self):
